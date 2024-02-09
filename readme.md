@@ -5,6 +5,9 @@ Android/iOS delivery app.
 - React-Native
 - Expo
 - Tailwind (Nativewind)
+- Expo Router (file-based navigation)
+- Component composition (button)
+- Zustand
 
 # Libraries and commands used in this project:
 
@@ -25,6 +28,9 @@ Google Inter font
 
 Library to allow conditional styling
 ```npm i clsx```
+
+Zustand global state management
+```npm i zustand```
 
 
 
